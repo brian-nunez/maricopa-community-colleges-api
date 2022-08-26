@@ -8,7 +8,7 @@ Query Params
 
 `subject_code` - Subject code, options can be found here `/api/classes/subjects`
 
-`institutions[]` - Accepts multiple, options can be found here `/api/classes/subjects`
+`institutions[]` - Accepts multiple, options can be found here `/api/classes/schools`
 
 `all_classes` - Availability, true is `All Classes`, false is `Open Classes Only`. default: `false`
 
